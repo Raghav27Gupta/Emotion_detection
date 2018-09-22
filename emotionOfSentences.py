@@ -1,8 +1,4 @@
-'''
-Created on Dec 29, 2016
 
-@author: hassan
-'''
 from keras.models import model_from_json
 import numpy
 from nltk.tokenize import sent_tokenize, word_tokenize
